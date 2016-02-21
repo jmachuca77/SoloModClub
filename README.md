@@ -1,4 +1,4 @@
-## SoloModClub
+### SoloModClub
 
 This repository is to keep any modifications done for the 3DR Solo. 
 
