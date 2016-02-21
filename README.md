@@ -22,7 +22,7 @@ So what does it do?
 to.
 
 
-#Pano:
+### Pano:
 
 This is a SmartShot that will take a sequence of pictures to create a panorma
 
